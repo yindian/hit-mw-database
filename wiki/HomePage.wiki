@@ -7,13 +7,13 @@ This database is to facilitate the offline recognition of general-purpose Chines
 
 
 
-  * The Chinese version homepage of HIT-MW database is located at http://hi.baidu.com/hitmw/ . 
+1) The Chinese version homepage of HIT-MW database is located at http://hi.baidu.com/hitmw/ . 
 
  
-  * The English version is put at http://hitmwdb.googlepages.com/ .
+2) The English version is put at http://hitmwdb.googlepages.com/ .
 
  
-  * A counterpart database produced by Single Writer (named HIT-SW database) had already released at http://hitswdb.googlepages.com .
+3) A counterpart database produced by Single Writer (named HIT-SW database) had already released at http://hitswdb.googlepages.com .
  
 
 
@@ -133,6 +133,7 @@ http://hit-mw-database.googlecode.com/files/test.zip
 
 
 
+
 = Restrictions =
 
  
@@ -142,11 +143,11 @@ The preliminary work has been published in IWFHR'06 (The full text is available 
 
  
 
-  * Tonghua Su, Tianwen Zhang, and Dejun Guan. "Corpus-based HIT-MW database for offline recognition of general-purpose Chinese handwritten text". International Journal of Document Analysis and Recognition, 2007, 10(1): 27-38.
+1. Tonghua Su, Tianwen Zhang, and Dejun Guan. "Corpus-based HIT-MW database for offline recognition of general-purpose Chinese handwritten text". International Journal of Document Analysis and Recognition, 2007, 10(1): 27-38.
 
  
 
-  * Tonghua Su, Tianwen Zhang, and Dejun Guan. "HIT-MW Dataset for Offline Chinese Handwritten Text Recognition". Proceedings of the Tenth International Workshop on Frontiers in Handwriting Recognition, 2006.
+2. Tonghua Su, Tianwen Zhang, and Dejun Guan. "HIT-MW Dataset for Offline Chinese Handwritten Text Recognition". Proceedings of the Tenth International Workshop on Frontiers in Handwriting Recognition, 2006.
 
  
 
@@ -160,15 +161,15 @@ Thanks a lot!
 
  
 
-1) We would like to thank Yiping Deng, Hui Xia, Ling Song, Di Zhang, Xuecai Yu, Haidan Xie, Yufeng Sun, Cuan Su and Guangjin Shao for their collaborations. 
+  * We would like to thank Yiping Deng, Hui Xia, Ling Song, Di Zhang, Xuecai Yu, Haidan Xie, Yufeng Sun, Cuan Su and Guangjin Shao for their collaborations. 
 
  
 
-2) We would also like to thank Haijing Wang and Yu Zhou for their valuable suggestions.
+  * We would also like to thank Haijing Wang and Yu Zhou for their valuable suggestions.
 
  
 
-3) This project is supported by the National Natural Science Foundation of China under Grant No. 60475011, and the Natural Science Foundation of Heilongjiang Province under Grant No. F0322. 
+  * This project is supported by the National Natural Science Foundation of China under Grant No. 60475011, and the Natural Science Foundation of Heilongjiang Province under Grant No. F0322. 
 
 
 
@@ -176,7 +177,6 @@ Thanks a lot!
 = About us =
 
  
-
  
 
 The project is directed by Zhang, Tianwen and Su, Tonghua at:
