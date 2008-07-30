@@ -7,13 +7,13 @@ This database is to facilitate the offline recognition of general-purpose Chines
 
 
 
-1) The Chinese version homepage of HIT-MW database is located at http://hi.baidu.com/hitmw/ . 
+1) The Chinese version homepage of *HIT-MW database* is located at http://hi.baidu.com/hitmw/ . 
 
  
 2) The English version is put at http://hitmwdb.googlepages.com/ .
 
  
-3) A counterpart database produced by Single Writer (named HIT-SW database) had already released at http://hitswdb.googlepages.com .
+3) A counterpart database produced by Single Writer (named *HIT-SW database*) had already released at http://hitswdb.googlepages.com .
  
 
 
@@ -23,7 +23,7 @@ This database is to facilitate the offline recognition of general-purpose Chines
 
 
 
-We motivate to research the general purpose Chinese character recognition (Part of the recent results have been published as a serial of papers). After three years' work, we compiled HIT-MW (HIT is the abbr. of Harbin Institute of Technology, and MW means it is written by Multiple Writers), a handwritten Chinese text database for the first time in handwriting recognition domain. 
+We motivate to research the general purpose Chinese character recognition (Part of the recent results have been published as a serial of papers). After three years' work, we compiled _HIT-MW_ (*HIT* is the abbr. of Harbin Institute of Technology, and *MW* means it is written by Multiple Writers), a handwritten Chinese text database for the first time in handwriting recognition domain. 
 
  
 
@@ -31,11 +31,11 @@ Comparing to previous handwritten databases, our database has at least three dis
 
  
 
-Besides text-line segmentation, the HIT-MW is fit to research segmentation-free recognition algorithms, to conduct handwriting identification experiments (The dataset is available upon request and Here is a brief summary ), to evaluate your signature verification algorithms (This kind of dataset is under construction),  to verify the effect of statistical language model (SLM) in real handwriting situation, and to study the nerve mechanism of Chinese handcopying activity.  Till now, at least THIRTEEN Institutes or Universities are using HIT-MW database in their experiments over the world. Though the database can be downloaded freely, you need an authority letter from us before publishing your papers (Here is an template of authority letter ). 
+Besides text-line segmentation, the *HIT-MW database* is fit to research segmentation-free recognition algorithms, to conduct handwriting identification experiments (The dataset is available upon request and Here is a brief summary ), to evaluate your signature verification algorithms (This kind of dataset is under construction),  to verify the effect of statistical language model (SLM) in real handwriting situation, and to study the nerve mechanism of Chinese handcopying activity.  Till now, at least THIRTEEN Institutes or Universities are using HIT-MW database in their experiments over the world. Though the database can be downloaded freely, you need an authority letter from us before publishing your papers (Here is an template of authority letter ). 
 
  
 
-In HIT-MW database, more than 780 participants produce their handwriting naturally. We have collected 853 legible Chinese handwriting samples. There are 186,444 characters in total including letters, punctuations besides Chinese characters, and these characters lead to 8,664 text lines. By simple computation, we get following statistics: Each sample has 10.16 text lines; Each text line has 21.51 characters; Each sample includes 218.57 characters. More specific information is described in http://hitmwdb.googlepages.com/ .
+In *HIT-MW database*, more than 780 participants produce their handwriting naturally. We have collected 853 legible Chinese handwriting samples. There are 186,444 characters in total including letters, punctuations besides Chinese characters, and these characters lead to 8,664 text lines. By simple computation, we get following statistics: Each sample has 10.16 text lines; Each text line has 21.51 characters; Each sample includes 218.57 characters. More specific information is described in http://hitmwdb.googlepages.com/ .
 
 
 
@@ -44,7 +44,7 @@ In HIT-MW database, more than 780 participants produce their handwriting natural
 
 
 
-The document level of HIT-MW Database can be downloaded freely below (with no commercial use):
+The document level of *HIT-MW database* can be downloaded freely below (with no commercial use):
 
 http://hit-mw-database.googlecode.com/files/DL01.zip
 
@@ -139,7 +139,7 @@ http://hit-mw-database.googlecode.com/files/test.zip
  
 
 
-The preliminary work has been published in IWFHR'06 (The full text is available as draft version in local site or final versions in the publishing website ). Moreover, the expanded version is published as an original paper of IJDAR by Springer publisher. If you are using HIT-MW database in your paper, please refer to following references:
+The preliminary work has been published in IWFHR'06 (The full text is available as draft version in local site or final versions in the publishing website ). Moreover, the expanded version is published as an original paper of IJDAR by Springer publisher. If you are using *HIT-MW database* in your paper, please refer to following references:
 
  
 
