@@ -1,0 +1,200 @@
+#summary One-sentence summary of this page.
+HIT-MW Database Homepage
+
+(This database is to facilitate the offline recognition of general-purpose Chinese handwritten text)
+
+
+
+Add your content here.  Format your content with:
+  * Text in *bold* or _italic_
+  * Headings, paragraphs, and lists
+  * Automatic links to other wiki pages
+
+
+
+= Links =
+
+
+
+  * The Chinese version homepage of HIT-MW database is located at http://hi.baidu.com/hitmw/ . 
+
+ 
+  * The English version is put at http://hitmwdb.googlepages.com/ .
+
+ 
+  * A counterpart database produced by Single Writer (named HIT-SW database) had already released at http://hitswdb.googlepages.com .
+ 
+
+
+
+= Summary =
+ 
+
+
+
+We motivate to research the general purpose Chinese character recognition (Part of the recent results have been published as a serial of papers). After three years' work, we compiled HIT-MW (HIT is the abbr. of Harbin Institute of Technology, and MW means it is written by Multiple Writers), a handwritten Chinese text database for the first time in handwriting recognition domain. 
+
+ 
+
+Comparing to previous handwritten databases, our database has at least three distinctions. First, the handwriting is naturally written with no rulers that can be used to make the text-line straight by and large. This feature makes it suitable for conducting experiments on Chinese text-line segmentation. Second, the underlying texts for handcopying are sampled from China Daily corpus in a systematic way and the writers are carefully chosen to give a balanced distribution. Third, it is collected by mail or middleman instead of face to face, resulting in some real handwriting phenomena, such as miswriting and erasing. 
+
+ 
+
+Besides text-line segmentation, the HIT-MW is fit to research segmentation-free recognition algorithms, to conduct handwriting identification experiments (The dataset is available upon request and Here is a brief summary ), to evaluate your signature verification algorithms (This kind of dataset is under construction),  to verify the effect of statistical language model (SLM) in real handwriting situation, and to study the nerve mechanism of Chinese handcopying activity.  Till now, at least THIRTEEN Institutes or Universities are using HIT-MW database in their experiments over the world. Though the database can be downloaded freely, you need an authority letter from us before publishing your papers (Here is an template of authority letter ). 
+
+ 
+
+In HIT-MW database, more than 780 participants produce their handwriting naturally. We have collected 853 legible Chinese handwriting samples. There are 186,444 characters in total including letters, punctuations besides Chinese characters, and these characters lead to 8,664 text lines. By simple computation, we get following statistics: Each sample has 10.16 text lines; Each text line has 21.51 characters; Each sample includes 218.57 characters. More specific information is described in http://hitmwdb.googlepages.com/ .
+
+
+
+
+= Downloads =
+
+
+
+The document level of HIT-MW Database can be downloaded freely below (with no commercial use):
+
+http://hit-mw-database.googlecode.com/files/DL01.zip
+
+
+http://hit-mw-database.googlecode.com/files/DL02.zip
+
+
+http://hit-mw-database.googlecode.com/files/DL03.zip
+
+
+http://hit-mw-database.googlecode.com/files/DL04.zip
+
+
+http://hit-mw-database.googlecode.com/files/DL05.zip
+
+
+http://hit-mw-database.googlecode.com/files/DL06.zip
+
+
+http://hit-mw-database.googlecode.com/files/DL07.zip
+
+
+http://hit-mw-database.googlecode.com/files/DL08.zip
+
+
+http://hit-mw-database.googlecode.com/files/DL09.zip
+
+
+http://hit-mw-database.googlecode.com/files/DL10.zip
+
+
+
+Textlines can be downloaded below (no commercial use is certified yet):
+
+
+http://hit-mw-database.googlecode.com/files/TL01.zip
+
+
+
+http://hit-mw-database.googlecode.com/files/TL02.zip
+
+
+
+http://hit-mw-database.googlecode.com/files/TL03.zip
+
+
+
+http://hit-mw-database.googlecode.com/files/TL04.zip
+
+
+
+http://hit-mw-database.googlecode.com/files/TL05.zip
+
+
+
+http://hit-mw-database.googlecode.com/files/TL06.zip
+
+
+
+http://hit-mw-database.googlecode.com/files/TL07.zip
+
+
+
+http://hit-mw-database.googlecode.com/files/TL08.zip
+
+
+
+http://hit-mw-database.googlecode.com/files/TL09.zip
+
+
+
+http://hit-mw-database.googlecode.com/files/TL10.zip
+
+
+We have sampled experimental dataset which has been intensively used in our papers. These data sets can be downloaded following below links (NO COMMERCIAL USE):
+
+
+http://hit-mw-database.googlecode.com/files/train.zip
+
+
+http://hit-mw-database.googlecode.com/files/validation.zip
+
+
+http://hit-mw-database.googlecode.com/files/test.zip
+
+
+
+
+= Restrictions =
+
+ 
+
+
+The preliminary work has been published in IWFHR'06 (The full text is available as draft version in local site or final versions in the publishing website ). Moreover, the expanded version is published as an original paper of IJDAR by Springer publisher. If you are using HIT-MW database in your paper, please refer to following references:
+
+ 
+
+  * Tonghua Su, Tianwen Zhang, and Dejun Guan. "Corpus-based HIT-MW database for offline recognition of general-purpose Chinese handwritten text". International Journal of Document Analysis and Recognition, 2007, 10(1): 27-38.
+
+ 
+
+  * Tonghua Su, Tianwen Zhang, and Dejun Guan. "HIT-MW Dataset for Offline Chinese Handwritten Text Recognition". Proceedings of the Tenth International Workshop on Frontiers in Handwriting Recognition, 2006.
+
+ 
+
+Thanks a lot! 
+
+
+
+
+= Acknowledgements =
+
+
+ 
+
+1) We would like to thank Yiping Deng, Hui Xia, Ling Song, Di Zhang, Xuecai Yu, Haidan Xie, Yufeng Sun, Cuan Su and Guangjin Shao for their collaborations. 
+
+ 
+
+2) We would also like to thank Haijing Wang and Yu Zhou for their valuable suggestions.
+
+ 
+
+3) This project is supported by the National Natural Science Foundation of China under Grant No. 60475011, and the Natural Science Foundation of Heilongjiang Province under Grant No. F0322. 
+
+
+
+
+= About us =
+
+ 
+
+ 
+
+The project is directed by Zhang, Tianwen and Su, Tonghua at:
+
+ 
+
+Artificial Intelligence Lab., School of Computer Science and Technology, Harbin Institute of Technology, Harbin, Heilongjiang Province, China.
+
+
+
+
+ 
