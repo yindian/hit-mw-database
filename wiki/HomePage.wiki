@@ -143,11 +143,11 @@ The preliminary work has been published in IWFHR'06 (The full text is available 
 
  
 
-  #1 Tonghua Su, Tianwen Zhang, and Dejun Guan. "Corpus-based HIT-MW database for offline recognition of general-purpose Chinese handwritten text". International Journal of Document Analysis and Recognition, 2007, 10(1): 27-38.
+1. Tonghua Su, Tianwen Zhang, and Dejun Guan. "Corpus-based HIT-MW database for offline recognition of general-purpose Chinese handwritten text". International Journal of Document Analysis and Recognition, 2007, 10(1): 27-38.
 
  
 
-  #2 Tonghua Su, Tianwen Zhang, and Dejun Guan. "HIT-MW Dataset for Offline Chinese Handwritten Text Recognition". Proceedings of the Tenth International Workshop on Frontiers in Handwriting Recognition, 2006.
+2. Tonghua Su, Tianwen Zhang, and Dejun Guan. "HIT-MW Dataset for Offline Chinese Handwritten Text Recognition". Proceedings of the Tenth International Workshop on Frontiers in Handwriting Recognition, 2006.
 
  
 
