@@ -3,7 +3,7 @@ This database is to facilitate the offline recognition of general-purpose Chines
 
 
 
-= Links =
+==1. Links ==
 
 
 
@@ -18,7 +18,7 @@ This database is to facilitate the offline recognition of general-purpose Chines
 
 
 
-= Summary =
+==2. Summary ==
  
 
 
@@ -40,7 +40,7 @@ In *HIT-MW database*, more than 780 participants produce their handwriting natur
 
 
 
-= Downloads =
+==3. Downloads ==
 
 
 
@@ -134,7 +134,7 @@ http://hit-mw-database.googlecode.com/files/test.zip
 
 
 
-= Restrictions =
+==4. Restrictions ==
 
  
 
@@ -156,7 +156,7 @@ Thanks a lot!
 
 
 
-= Acknowledgements =
+==5. Acknowledgements ==
 
 
  
@@ -174,7 +174,7 @@ Thanks a lot!
 
 
 
-= About us =
+==6. About us ==
 
  
  
