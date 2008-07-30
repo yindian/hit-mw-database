@@ -1,14 +1,5 @@
-#summary One-sentence summary of this page.
-HIT-MW Database Homepage
+#This database is to facilitate the offline recognition of general-purpose Chinese handwritten 
 
-(This database is to facilitate the offline recognition of general-purpose Chinese handwritten text)
-
-
-
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
 
 
 
