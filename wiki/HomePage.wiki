@@ -1,4 +1,4 @@
-#This database is to facilitate the offline recognition of general-purpose Chinese handwritten 
+This database is to facilitate the offline recognition of general-purpose Chinese handwritten 
 
 
 
