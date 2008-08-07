@@ -1,4 +1,5 @@
 #summary This database is to facilitate the offline recognition of general-purpose Chinese handwritten.
+#labels Featured,Phase-Requirements,Phase-Design
 
 
 
