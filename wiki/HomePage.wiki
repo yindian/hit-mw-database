@@ -134,8 +134,50 @@ http://hit-mw-database.googlecode.com/files/test.zip
 
 
 
+==5. CCs-Level Ground Truth for Textline Segmentation  Experiments (NEW)==
 
-==4. Restrictions ==
+
+
+HIT-MW database includes hundreds of pages with natural writing style. So, HIT-MW can be used to develop fine textline segmentation algorithms. Fei Yin and Cheng-Lin Liu (NLPR, CAS, P.R. China) have labeled each handwritten textline at connected components (CCs) level with the help of their ground-truthing tool, GTLC. Such data are used in their recent papers and can be downloaded as follows:
+
+
+
+
+http://hitmwlgt.googlecode.com/files/LGT01.zip (Size: 10.00MB)
+
+http://hitmwlgt.googlecode.com/files/LGT02.zip (Size: 12.90MB)
+
+http://hitmwlgt.googlecode.com/files/LGT03.zip (Size: 6.82MB)
+
+http://hitmwlgt.googlecode.com/files/LGT04.zip (Size: 10.40MB)
+
+http://hitmwlgt.googlecode.com/files/LGT05.zip (Size: 8.16MB)
+
+http://hitmwlgt.googlecode.com/files/LGT06.zip (Size: 7.80MB)
+
+http://hitmwlgt.googlecode.com/files/LGT07.zip (Size: 7.12MB)
+
+http://hitmwlgt.googlecode.com/files/LGT08.zip (Size: 7.74MB)
+
+http://hitmwlgt.googlecode.com/files/LGT09.zip (Size: 10.10MB)
+
+http://hitmwlgt.googlecode.com/files/LGT10.zip (Size: 9.69MB) 
+
+
+
+The file format, ".lgr", is described as in http://hitmwlgt.googlecode.com/files/SpecificationLGR.pdf. In addition, an example is provided to read an ".lgr" file and display the underlying textlines on screen ( Selected "lgr" file: http://hitmwlgt.googlecode.com/files/b04010201.lgr , Matlab code: http://hitmwlgt.googlecode.com/files/RdDpLGR.m).
+
+ 
+
+Alternatively, you can find above files at: http://www.box.net/shared/vjfgo1xnev (Total Size: 91.3MB).
+
+
+
+
+
+
+
+==5. Restrictions ==
 
  
 
@@ -157,7 +199,7 @@ Thanks a lot!
 
 
 
-==5. Acknowledgements ==
+==6. Acknowledgements ==
 
 
  
@@ -175,7 +217,7 @@ Thanks a lot!
 
 
 
-==6. About us ==
+==7. About us ==
 
  
  
