@@ -1,6 +1,3 @@
-
-
-
 #summary Authority of HIT-MW database
 
 
