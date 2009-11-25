@@ -1,0 +1,38 @@
+#summary Authority of HIT-MW database
+Dear **[Name]**,
+
+The copyright of HIT-MW database is held by Artificial Intelligence Lab, School of Computer Science and Technology, Harbin Institute of Technology, Harbin, Heilongjiang Province, China. We are granting your research group led by **[Mentor/Leader]** at **[University]**, with the right to use HIT-MW database in your research on **[Application]**. The authority is valid under the condition that you warrant the following FOUR aspects:
+
+1) At least one of the following papers should be cited, when using HIT-MW database in your report, thesis, or paper:
+[1] Tonghua Su, Tianwen Zhang, et al. "Corpus-based HIT-MW database for offline recognition of general-purpose Chinese handwritten text". International Journal of Document Analysis and Recognition. 2007,10(1):27-38.
+[2] Tonghua Su, Tianwen Zhang, et al. "HIT-MW Dataset for Offline Chinese Handwritten Text Recognition". Proceedings of the Tenth International Workshop on Frontiers in Handwriting Recognition. 2006 .
+
+2) Don't distribute the copy of HIT-MW database.
+
+3) ONLY used in academic purpose.
+
+4) The letter is sent from hitmwdb AT gmail.com .
+
+ 5) The authority will be expired a year later. Extra request should send to us for the next authority.
+
+The homepages of HIT-MW database are at http://hitmwdb.googlepages.com or http://code.google.com/p/hit-mw-database/ (English version) and http://hi.baidu.com/hitmw (Chinese version). You can download the database freely, following above URL.
+
+Any questions or suggestions are very welcome.
+
+Best Regards,
+
+Tong-Hua Su
+
+**[Data]**
+
+= Introduction =
+
+Add your content here.
+
+
+= Details =
+
+Add your content here.  Format your content with:
+  * Text in *bold* or _italic_
+  * Headings, paragraphs, and lists
+  * Automatic links to other wiki pages
