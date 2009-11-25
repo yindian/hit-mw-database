@@ -1,4 +1,4 @@
-#summary = Writer Identification Dataset=
+Writer Identification Dataset
 
 
 HIT-MW database can be used to research on the writer identification. We have labeled hundreds of documents in HIT-MW database for this purpose. If you are interested in this dataset, please contact [hitmwdb@gmail.com hitmwdb AT gmail.com] . The dataset is available free of charge. Following are a part of writer labels: 
