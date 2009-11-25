@@ -1,4 +1,7 @@
 #summary Authority of HIT-MW database
+
+
+
 Dear {{{**[Name]**}}},
 
 The copyright of HIT-MW database is held by Artificial Intelligence Lab, School of Computer Science and Technology, Harbin Institute of Technology, Harbin, Heilongjiang Province, China. We are granting your research group led by {{{**[Mentor/Leader]**}}} at {{{**[University]**}}}, with the right to use HIT-MW database in your research on {{{**[Application]**}}}. The authority is valid under the condition that you warrant the following FOUR aspects:
