@@ -1,0 +1,17 @@
+#summary One-sentence summary of this page.
+
+= 1. Journal Papers:  =
+
+|| {{{[1]  }}} || T. Su, T. Zhang et. al. Off-line recognition of realistic Chinese handwriting using segmentation-free strategy, Patten Recognition, 2009, 42(1):167-182 (SCI IDS Number: 365WB, EI: 083811572315). || Full Text ||
+|| {{{[2]  }}} ||  T. Su, T. Zhang, and D. Guan. Corpus-based HIT-MW database for offline recognition of general-purpose Chinese handwritten text. International Journal of Document Analysis and Recognition, 2007, 10(1): 27-38 (SCI IDS Number: 185UF, EI: 072310638906). ||Full Text||  
+
+= 2. Conference Papers:  =
+
+||{{{[3] }}} ||  T. Su, T. Zhang, C.-L. Liu, H. Huang. Segmentation-free recognizer based on enhanced four plane feature for realistic Chinese handwriting. IEEE Conference on Pattern Recognition (ICPR), 2008 (EI: coming soon). ||Full Text||
+||{{{[4] }}} ||  T. Su, T. Zhang, H. Huang et. al. Transformation-based hierarchical decision rules using genetic algorithms, in The 2008 IEEE Congress on Evolutionary Computation (CEC), 2008 (EI: 084611709789), pp. 951-956. ||Full Text||
+||{{{[5] }}} ||  T. Su, T. Zhang, D. Guan, and H. Huang. Gabor-based recognizer for Chinese handwriting from segmentation-free strategy. in Proceedings of the 12th International Conference on Computer Analysis of Images and Patterns (CAIP), W.G. Kropatsch, M. Kampel, and A. Hanbury (Eds.). Lecture Notes in Computer Science. LNCS 4673, pp. 539–546, 2007 (EI: 080411045886).|| Full Text||
+||{{{[6] }}} ||  T. Su, T. Zhang, H. Huang, and Y. Zhou. Skew detection for Chinese handwriting by horizontal stroke histogram. in Proceedings of the 9th International Conference on Document Analysis and Recognition (ICDAR), pp. 899-903, 2007 (EI: 083711538455).|| Full Text||
+||{{{[7] }}} ||  T. Su, T. Zhang, H. Huang, and Y. Zhou. HMM-based recognizer with segmentation-free strategy for unconstrained Chinese handwritten text. in Proceedings of the 9th International Conference on Document Analysis and Recognition(ICDAR), pp. 133-137, 2007  (EI: 083711538305).  ||Full Text||
+||{{{[8] }}} ||  T. Su, T. Zhang and Z. Qiu. HMM -based system for transcribing Chinese handwriting, in Proceedings of the 6th International Conference of Machine Learning and Cybernetics(ICMLC), pp. 3412-3417, 2007 (EI: 080311030913). ||Full Text ||
+||{{{[9] }}} ||  T. Su, T. Zhang and H. Huang. Character segmentation of handwritten Chinese text based on HMM recognizer, in Proceedings of the 1st Chinese Conference on Patten Recognition (CCPR), pp. 306-313, 2007 (in Chinese). ||Snapshot||
+||{{{[10]}}} || T. Su, T. Zhang, and D. Guan. HIT-MW dataset for offline Chinese handwritten text recognition. in Proceedings of the 10th International Workshop on Frontiers in Handwriting Recognition (IWFHR), 2006. ||Full Text||
