@@ -2,8 +2,8 @@
 
 = 1. Journal Papers:  =
 
-|| {{{[1]  }}} || T. Su, T. Zhang et. al. Off-line recognition of realistic Chinese handwriting using segmentation-free strategy, Patten Recognition, 2009, 42(1):167-182 (SCI IDS Number: 365WB, EI: 083811572315). || Full Text ||
-|| {{{[2]  }}} ||  T. Su, T. Zhang, and D. Guan. Corpus-based HIT-MW database for offline recognition of general-purpose Chinese handwritten text. International Journal of Document Analysis and Recognition, 2007, 10(1): 27-38 (SCI IDS Number: 185UF, EI: 072310638906). ||Full Text||  
+|| {{{[1]  }}} || T. Su, T. Zhang et. al. Off-line recognition of realistic Chinese handwriting using segmentation-free strategy, Patten Recognition, 2009, 42(1):167-182 (SCI IDS Number: 365WB, EI: 083811572315). || [http://www.science-direct.com/science?_ob=ArticleURL&_udi=B6V14-4SJG65S-1&_user=2307705&_coverDate=01%2F31%2F2009&_rdoc=19&_fmt=high&_orig=browse&_srch=doc-info(%23toc%235664%232009%23999579998%23698058%23FLA%23display%23Volume)&_cdi=5664&_sort=d&_docanchor=&_ct=22&_acct=C000056861&_version=1&_urlVersion=0&_userid=2307705&md5=af83fb4ec98020a3e714335d7c1c7cbe Full Text] ||
+|| {{{[2]  }}} ||  T. Su, T. Zhang, and D. Guan. Corpus-based HIT-MW database for offline recognition of general-purpose Chinese handwritten text. International Journal of Document Analysis and Recognition, 2007, 10(1): 27-38 (SCI IDS Number: 185UF, EI: 072310638906). ||[http://www.springerlink.com/content/3j87x00x4r766127/fulltext.pdf Full Text]||  
 
 = 2. Conference Papers:  =
 
