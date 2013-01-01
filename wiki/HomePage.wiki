@@ -36,7 +36,7 @@ Besides text-line segmentation, the *HIT-MW database* is fit to research segment
 
  
 
-In *HIT-MW database*, more than 780 participants produce their handwriting naturally. We have collected 853 legible Chinese handwriting samples. There are 186,444 characters in total including letters, punctuations besides Chinese characters, and these characters lead to 8,664 text lines. By simple computation, we get following statistics: Each sample has 10.16 text lines; Each text line has 21.51 characters; Each sample includes 218.57 characters. More specific information is described in http://hitmwdb.googlepages.com/ .
+In *HIT-MW database*, more than 780 participants produce their handwriting naturally. We have collected 853 legible Chinese handwriting samples. There are 186,444 characters in total including letters, punctuations besides Chinese characters, and these characters lead to 8,664 text lines. By simple computation, we get following statistics: Each sample has 10.16 text lines; Each text line has 21.51 characters; Each sample includes 218.57 characters. More specific information is described in https://sites.google.com/site/hitmwdb/ .
 
 
 
