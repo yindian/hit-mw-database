@@ -11,10 +11,10 @@
 1) The Chinese version homepage of *HIT-MW database* is located at http://hi.baidu.com/hitmw/ . 
 
  
-2) The English version is put at http://hitmwdb.googlepages.com/ .
+2) The English version is put at https://sites.google.com/site/hitmwdb/ .
 
  
-3) A counterpart database produced by Single Writer (named *HIT-SW database*) had already released at http://hitswdb.googlepages.com .
+3) A counterpart database produced by Single Writer (named *HIT-SW database*) had already released at https://sites.google.com/site/hitswdb/ .
  
 
 
@@ -134,7 +134,7 @@ http://hit-mw-database.googlecode.com/files/test.zip
 
 
 
-==5. CCs-Level Ground Truth for Textline Segmentation  Experiments (NEW)==
+==4. CCs-Level Ground Truth for Textline Segmentation  Experiments (NEW)==
 
 
 
