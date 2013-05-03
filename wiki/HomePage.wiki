@@ -4,48 +4,61 @@
 
 
 
-==1. Links ==
+=HIT-MW Database Homepage=
+
+_(This database is to facilitate the offline recognition of general-purpose Chinese handwritten text)_
 
 
 
-1) The Chinese version homepage of *HIT-MW database* is located at http://hi.baidu.com/hitmw/ . 
 
- 
-2) The English version is put at https://sites.google.com/site/hitmwdb/ .
-
- 
-3) A counterpart database produced by Single Writer (named *HIT-SW database*) had already released at https://sites.google.com/site/hitswdb/ .
- 
+==1. Links==
 
 
 
-==2. Summary ==
- 
 
-
-
-We motivate to research the general purpose Chinese character recognition (Part of the recent results have been published as a serial of papers). After three years' work, we compiled _HIT-MW_ (*HIT* is the abbr. of Harbin Institute of Technology, and *MW* means it is written by Multiple Writers), a handwritten Chinese text database for the first time in handwriting recognition domain. 
+1) The Chinese version homepage of HIT-MW database is located at http://hi.baidu.com/hitmw/ . 
 
  
+2) The English version is put at http://code.google.com/p/hit-mw-database/ (this site) and http://hitmwdb.googlepages.com/ .
+
+ 
+3) A counterpart database produced by Single Writer (named HIT-SW database) had already released at http://hitswdb.googlepages.com .
+
+
+
+
+==2. Summary==
+
+
+We motivate to research the general purpose Chinese character recognition (Part of the recent results have been published as [http://code.google.com/p/hit-mw-database/wiki/PaperList a serial of papers]). After three years' work, we compiled HIT-MW (HIT is the abbr. of [http://en.hit.edu.cn/ Harbin Institute of Technology], and MW means it is written by Multiple Writers), a handwritten Chinese text database for the first time in handwriting recognition domain. 
+
+
 
 Comparing to previous handwritten databases, our database has at least three distinctions. First, the handwriting is naturally written with no rulers that can be used to make the text-line straight by and large. This feature makes it suitable for conducting experiments on Chinese text-line segmentation. Second, the underlying texts for handcopying are sampled from China Daily corpus in a systematic way and the writers are carefully chosen to give a balanced distribution. Third, it is collected by mail or middleman instead of face to face, resulting in some real handwriting phenomena, such as miswriting and erasing. 
 
+
+Besides text-line segmentation, the HIT-MW is fit to research segmentation-free recognition algorithms, to conduct handwriting identification experiments (The dataset is available upon request and here is [http://code.google.com/p/hit-mw-database/wiki/WriterIdentification a brief summary] ), to evaluate your signature verification algorithms (This kind of dataset is under construction), to verify the effect of statistical language model (SLM) in real handwriting situation, and to study the nerve mechanism of Chinese handcopying activity. 
+
  
 
-Besides text-line segmentation, the *HIT-MW database* is fit to research segmentation-free recognition algorithms, to conduct handwriting identification experiments (The dataset is available upon request and Here is a brief summary ), to evaluate your signature verification algorithms (This kind of dataset is under construction),  to verify the effect of statistical language model (SLM) in real handwriting situation, and to study the nerve mechanism of Chinese handcopying activity.  Till now, at least THIRTEEN Institutes or Universities are using HIT-MW database in their experiments over the world. Though the database can be downloaded freely, you need an authority letter from us before publishing your papers (Here is an template of authority letter ). 
+Till now, at least THIRTY Institutes or Universities are using HIT-MW database in their experiments over the world. Though the database can be downloaded freely, you need an authority letter from us before publishing your papers (Here is [http://code.google.com/p/hit-mw-database/wiki/AuthorityLetter an template of authority letter] ). 
 
  
 
-In *HIT-MW database*, more than 780 participants produce their handwriting naturally. We have collected 853 legible Chinese handwriting samples. There are 186,444 characters in total including letters, punctuations besides Chinese characters, and these characters lead to 8,664 text lines. By simple computation, we get following statistics: Each sample has 10.16 text lines; Each text line has 21.51 characters; Each sample includes 218.57 characters. More specific information is described in https://sites.google.com/site/hitmwdb/ .
+
+In HIT-MW database, more than 780 participants produce their handwriting naturally. We have collected 853 legible Chinese handwriting samples. There are 186,444 characters in total including letters, punctuations besides Chinese characters, and these characters lead to 8,664 text lines. By simple computation, we get following statistics: Each sample has 10.16 text lines; Each text line has 21.51 characters; Each sample includes 218.57 characters. More specific information is briefly described below.
 
 
 
 
-==3. Downloads ==
+
+
+==3. Downloads==
 
 
 
-The document level of *HIT-MW database* can be downloaded freely below (with no commercial use):
+
+The document level of HIT-MW Database can be downloaded freely below (with no commercial use):
 
 http://hit-mw-database.googlecode.com/files/DL01.zip
 
@@ -133,8 +146,7 @@ http://hit-mw-database.googlecode.com/files/test.zip
 
 
 
-
-==4. CCs-Level Ground Truth for Textline Segmentation  Experiments (NEW)==
+==5. CCs-Level Ground Truth for Textline Segmentation  Experiments (NEW)==
 
 
 
@@ -172,17 +184,24 @@ The file format, ".lgr", is described as in http://hitmwlgt.googlecode.com/files
 Alternatively, you can find above files at: http://www.box.net/shared/vjfgo1xnev (Total Size: 91.3MB).
 
 
+==6. Textual Ground Truth of HIT-MW Database (NEW)==
 
-
-
-
-
-==5. Restrictions ==
+The textual ground truth acts as the standard answers to the handwriting image. To evaluate the performance, transcription from recognition engine is compared with the ground truth. That is to say, labeling the database to generate its ground truth is the preliminary stage for the development of the recognition system.
 
  
+The ground truth is aligned not only on document level, but also on textline level. The ground truth of the database is available upon request (Please contact hitmwdb AT gmail.com).
 
 
-The preliminary work has been published in IWFHR'06 (The full text is available as draft version in local site or final versions in the publishing website ). Moreover, the expanded version is published as an original paper of IJDAR by Springer publisher. If you are using *HIT-MW database* in your paper, please refer to following references:
+The character-level ground truth can be downloarded here (http://cid-c843d00d50306b55.office.live.com/browse.aspx/HIT-MW%20Database%20%5E5binary%20DGR%5E6 ).
+
+
+
+==7. Restrictions==
+
+
+
+
+The preliminary work has been published in IWFHR'06 (The full text is available as draft version in local site or final versions in the publishing website ). Moreover, the expanded version is published as an original paper of IJDAR by Springer publisher. If you are using HIT-MW database in your paper, please refer to following references:
 
  
 
@@ -199,35 +218,33 @@ Thanks a lot!
 
 
 
-==6. Acknowledgements ==
+==8. Acknowledgements==
 
 
- 
 
-  * We would like to thank Yiping Deng, Hui Xia, Ling Song, Di Zhang, Xuecai Yu, Haidan Xie, Yufeng Sun, Cuan Su and Guangjin Shao for their collaborations. 
 
- 
-
-  * We would also like to thank Haijing Wang and Yu Zhou for their valuable suggestions.
+1) We would like to thank Yiping Deng, Hui Xia, Ling Song, Di Zhang, Xuecai Yu, Haidan Xie, Yufeng Sun, Cuan Su and Guangjin Shao for their collaborations. 
 
  
 
-  * This project is supported by the National Natural Science Foundation of China under Grant No. 60475011, and the Natural Science Foundation of Heilongjiang Province under Grant No. F0322. 
-
-
-
-
-==7. About us ==
+2) We would also like to thank Haijing Wang and Yu Zhou for their valuable suggestions.
 
  
- 
+
+3) This project is supported by the National Natural Science Foundation of China under Grant No. 60475011, and the Natural Science Foundation of Heilongjiang Province under Grant No. F0322. 
+
+
+
+
+==9. About us== 
+
+
+
 
 The project is directed by Su, Tonghua and Zhang, Tianwen at:
-
  
 
-Harbin Institute of Technology, Harbin, Heilongjiang Province, China.
-
+School of Software, Harbin Institute of Technology, Harbin, Heilongjiang Province, China.
 
 
 
