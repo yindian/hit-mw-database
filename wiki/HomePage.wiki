@@ -4,13 +4,6 @@
 
 
 
-=HIT-MW Database Homepage=
-
-_(This database is to facilitate the offline recognition of general-purpose Chinese handwritten text)_
-
-
-
-
 ==1. Links==
 
 
