@@ -1,0 +1,17 @@
+HIT-MW database can be used to research on the writer identification. We have labeled hundreds of documents in HIT-MW database for this purpose. If you are interested in this dataset, please contact [hitmwdb AT gmail.com](mailto:hitmwdb@gmail.com) . The dataset is available free of charge. Following are a part of writer labels:
+
+![http://hit-mw-database.googlecode.com/files/writerIdent.jpg](http://hit-mw-database.googlecode.com/files/writerIdent.jpg)
+
+# Specail Notes: #
+
+  * Thanks for use!
+  * Any use of the dataset should be authorized by us. Please forward questions to:
+hitmwdb AT gmail.com
+
+  * More information is available at: http://hitmwdb.googlepages.com
+
+by Tonghua Su
+
+Harbin Institute of Technology (HIT), P R China
+
+Feb. 1, 2008

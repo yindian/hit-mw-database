@@ -1,0 +1,237 @@
+## 1. Links ##
+
+
+
+
+1) The Chinese version homepage of HIT-MW database is located at http://hi.baidu.com/hitmw/ .
+
+
+2) The English version is put at http://code.google.com/p/hit-mw-database/ (this site) and http://hitmwdb.googlepages.com/ .
+
+
+3) A counterpart database produced by Single Writer (named HIT-SW database) had already released at http://hitswdb.googlepages.com .
+
+
+
+
+## 2. Summary ##
+
+
+We motivate to research the general purpose Chinese character recognition (Part of the recent results have been published as [a serial of papers](http://code.google.com/p/hit-mw-database/wiki/PaperList)). After three years' work, we compiled HIT-MW (HIT is the abbr. of [Harbin Institute of Technology](http://en.hit.edu.cn/), and MW means it is written by Multiple Writers), a handwritten Chinese text database for the first time in handwriting recognition domain.
+
+
+
+Comparing to previous handwritten databases, our database has at least three distinctions. First, the handwriting is naturally written with no rulers that can be used to make the text-line straight by and large. This feature makes it suitable for conducting experiments on Chinese text-line segmentation. Second, the underlying texts for handcopying are sampled from China Daily corpus in a systematic way and the writers are carefully chosen to give a balanced distribution. Third, it is collected by mail or middleman instead of face to face, resulting in some real handwriting phenomena, such as miswriting and erasing.
+
+
+Besides text-line segmentation, the HIT-MW is fit to research segmentation-free recognition algorithms, to conduct handwriting identification experiments (The dataset is available upon request and here is [a brief summary](http://code.google.com/p/hit-mw-database/wiki/WriterIdentification) ), to evaluate your signature verification algorithms (This kind of dataset is under construction), to verify the effect of statistical language model (SLM) in real handwriting situation, and to study the nerve mechanism of Chinese handcopying activity.
+
+
+
+Till now, at least THIRTY Institutes or Universities are using HIT-MW database in their experiments over the world. Though the database can be downloaded freely, you need an authority letter from us before publishing your papers (Here is [an template of authority letter](http://code.google.com/p/hit-mw-database/wiki/AuthorityLetter) ).
+
+
+
+
+In HIT-MW database, more than 780 participants produce their handwriting naturally. We have collected 853 legible Chinese handwriting samples. There are 186,444 characters in total including letters, punctuations besides Chinese characters, and these characters lead to 8,664 text lines. By simple computation, we get following statistics: Each sample has 10.16 text lines; Each text line has 21.51 characters; Each sample includes 218.57 characters. More specific information is briefly described below.
+
+
+
+
+
+
+## 3. Downloads ##
+
+
+
+
+The document level of HIT-MW Database can be downloaded freely below (with no commercial use):
+
+http://hit-mw-database.googlecode.com/files/DL01.zip
+
+
+http://hit-mw-database.googlecode.com/files/DL02.zip
+
+
+http://hit-mw-database.googlecode.com/files/DL03.zip
+
+
+http://hit-mw-database.googlecode.com/files/DL04.zip
+
+
+http://hit-mw-database.googlecode.com/files/DL05.zip
+
+
+http://hit-mw-database.googlecode.com/files/DL06.zip
+
+
+http://hit-mw-database.googlecode.com/files/DL07.zip
+
+
+http://hit-mw-database.googlecode.com/files/DL08.zip
+
+
+http://hit-mw-database.googlecode.com/files/DL09.zip
+
+
+http://hit-mw-database.googlecode.com/files/DL10.zip
+
+
+
+Textlines can be downloaded below (no commercial use is certified yet):
+
+
+http://hit-mw-database.googlecode.com/files/TL01.zip
+
+
+
+http://hit-mw-database.googlecode.com/files/TL02.zip
+
+
+
+http://hit-mw-database.googlecode.com/files/TL03.zip
+
+
+
+http://hit-mw-database.googlecode.com/files/TL04.zip
+
+
+
+http://hit-mw-database.googlecode.com/files/TL05.zip
+
+
+
+http://hit-mw-database.googlecode.com/files/TL06.zip
+
+
+
+http://hit-mw-database.googlecode.com/files/TL07.zip
+
+
+
+http://hit-mw-database.googlecode.com/files/TL08.zip
+
+
+
+http://hit-mw-database.googlecode.com/files/TL09.zip
+
+
+
+http://hit-mw-database.googlecode.com/files/TL10.zip
+
+
+We have sampled experimental dataset which has been intensively used in our papers. These data sets can be downloaded following below links (NO COMMERCIAL USE):
+
+
+http://hit-mw-database.googlecode.com/files/train.zip
+
+
+http://hit-mw-database.googlecode.com/files/validation.zip
+
+
+http://hit-mw-database.googlecode.com/files/test.zip
+
+
+
+## 5. CCs-Level Ground Truth for Textline Segmentation  Experiments (NEW) ##
+
+
+
+HIT-MW database includes hundreds of pages with natural writing style. So, HIT-MW can be used to develop fine textline segmentation algorithms. Fei Yin and Cheng-Lin Liu (NLPR, CAS, P.R. China) have labeled each handwritten textline at connected components (CCs) level with the help of their ground-truthing tool, GTLC. Such data are used in their recent papers and can be downloaded as follows:
+
+
+
+
+http://hitmwlgt.googlecode.com/files/LGT01.zip (Size: 10.00MB)
+
+http://hitmwlgt.googlecode.com/files/LGT02.zip (Size: 12.90MB)
+
+http://hitmwlgt.googlecode.com/files/LGT03.zip (Size: 6.82MB)
+
+http://hitmwlgt.googlecode.com/files/LGT04.zip (Size: 10.40MB)
+
+http://hitmwlgt.googlecode.com/files/LGT05.zip (Size: 8.16MB)
+
+http://hitmwlgt.googlecode.com/files/LGT06.zip (Size: 7.80MB)
+
+http://hitmwlgt.googlecode.com/files/LGT07.zip (Size: 7.12MB)
+
+http://hitmwlgt.googlecode.com/files/LGT08.zip (Size: 7.74MB)
+
+http://hitmwlgt.googlecode.com/files/LGT09.zip (Size: 10.10MB)
+
+http://hitmwlgt.googlecode.com/files/LGT10.zip (Size: 9.69MB)
+
+
+
+The file format, ".lgr", is described as in http://hitmwlgt.googlecode.com/files/SpecificationLGR.pdf. In addition, an example is provided to read an ".lgr" file and display the underlying textlines on screen ( Selected "lgr" file: http://hitmwlgt.googlecode.com/files/b04010201.lgr , Matlab code: http://hitmwlgt.googlecode.com/files/RdDpLGR.m).
+
+
+
+Alternatively, you can find above files at: http://www.box.net/shared/vjfgo1xnev (Total Size: 91.3MB).
+
+
+## 6. Textual Ground Truth of HIT-MW Database (NEW) ##
+
+The textual ground truth acts as the standard answers to the handwriting image. To evaluate the performance, transcription from recognition engine is compared with the ground truth. That is to say, labeling the database to generate its ground truth is the preliminary stage for the development of the recognition system.
+
+
+The ground truth is aligned not only on document level, but also on textline level. The ground truth of the database is available upon request (Please contact hitmwdb AT gmail.com).
+
+
+The character-level ground truth can be downloarded here (http://cid-c843d00d50306b55.office.live.com/browse.aspx/HIT-MW%20Database%20%5E5binary%20DGR%5E6 ).
+
+
+
+## 7. Restrictions ##
+
+
+
+
+The preliminary work has been published in IWFHR'06 (The full text is available as draft version in local site or final versions in the publishing website ). Moreover, the expanded version is published as an original paper of IJDAR by Springer publisher. If you are using HIT-MW database in your paper, please refer to following references:
+
+
+
+1. Tonghua Su, Tianwen Zhang, and Dejun Guan. "Corpus-based HIT-MW database for offline recognition of general-purpose Chinese handwritten text". International Journal of Document Analysis and Recognition, 2007, 10(1): 27-38.
+
+
+
+2. Tonghua Su, Tianwen Zhang, and Dejun Guan. "HIT-MW Dataset for Offline Chinese Handwritten Text Recognition". Proceedings of the Tenth International Workshop on Frontiers in Handwriting Recognition, 2006.
+
+
+
+Thanks a lot!
+
+
+
+
+## 8. Acknowledgements ##
+
+
+
+
+1) We would like to thank Yiping Deng, Hui Xia, Ling Song, Di Zhang, Xuecai Yu, Haidan Xie, Yufeng Sun, Cuan Su and Guangjin Shao for their collaborations.
+
+
+
+2) We would also like to thank Haijing Wang and Yu Zhou for their valuable suggestions.
+
+
+
+3) This project is supported by the National Natural Science Foundation of China under Grant No. 60475011, and the Natural Science Foundation of Heilongjiang Province under Grant No. F0322.
+
+
+
+
+## 9. About us ##
+
+
+
+
+The project is directed by Su, Tonghua and Zhang, Tianwen at:
+
+
+School of Software, Harbin Institute of Technology, Harbin, Heilongjiang Province, China.
+
+
+
